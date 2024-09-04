@@ -3,7 +3,7 @@
 Eu sou <strong>Pedro Henrique</strong>, <strong>Tenho 18 anos, gosto de tecnologia em geral e sou iniciante na area</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong></strong> 
-- 💬 Pergunte-me sobre: <strong>Jogar jogos, Futebol</strong>
+- 💬 Pergunte-me sobre: <strong>Jogar jogos, Futebol, academia</strong>
 - 📣 Nós podemos falar em: <strong>Pt/Br</strong>
 
 <div align="center">
