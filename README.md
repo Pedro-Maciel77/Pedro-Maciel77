@@ -1,6 +1,6 @@
 # [Pedro Henrique] <img src="https://static.wikia.nocookie.net/deathbattle/images/c/cb/GutsBerserkerArmorSprite.gif/revision/latest?cb=20220515011907" width="40px">
 
-Eu sou <strong>Pedro Henrique</strong>, <strong>Tenho 18 anos, gosto de tecnologia em geral e sou iniciante na area</strong> 👨🏻‍💻 
+Eu sou <strong>Pedro Henrique</strong>, <strong>Tenho 19 anos e estou no 3° periodo de Analise e desenvolvimento de sistemas</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>JavaScript, Sql, Html, CSS</strong> 
 - 💬 Pergunte-me sobre: <strong>Jogar jogos, Futebol, academia</strong>
