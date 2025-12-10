@@ -2,7 +2,7 @@
 
 Eu sou <strong>Pedro Henrique</strong>, <strong>Tenho 19 anos e estou no 3° periodo de Analise e desenvolvimento de sistemas</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>JavaScript, Sql, Html, CSS</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>react native, type script, JS, Python</strong> 
 - 💬 Pergunte-me sobre: <strong>Jogar jogos, Futebol, academia</strong>
 - 📣 Nós podemos falar em: <strong>Pt/Br</strong>
 
